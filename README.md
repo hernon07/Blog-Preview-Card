@@ -4,7 +4,7 @@
 
 # Preview of the App
 
-![Preview](.png)
+![Preview](blog-preview-card.png)
 
 # Description
     FrontendMentor Challenge
