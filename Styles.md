@@ -12,7 +12,7 @@
 
 ### Colors :
 
-*Colors : 
+* Colors : 
   + Yellow   ( #F4D04E )
   + Grey   ( #7F7F7F )
   + White ( #FFFFFF )
